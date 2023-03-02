@@ -17,7 +17,7 @@ class InvoiceUseCase
 
     public function execute(): void
     {
-        $data = $this->dataGenerate(rand(1, 1));
+        $data = $this->dataGenerate(rand(8, 12));
 
         $this->invoicesInterface->create($data);
     }
