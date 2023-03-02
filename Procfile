@@ -1,1 +1,1 @@
-web: heroku-php-nginx public_html
+web: heroku-php-apache2
