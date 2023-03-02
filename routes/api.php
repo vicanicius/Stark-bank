@@ -14,5 +14,5 @@ use App\Http\Controllers\WebhookController;
 |
 */
 
-Route::post('/invoices', [InvoiceController::class, 'create']);
-Route::post('/webhook', [WebhookController::class, 'handleWebhook']);
+/* Route::post('/invoices', [InvoiceController::class, 'create']);
+Route::post('/webhook', [WebhookController::class, 'handleWebhook']); */
