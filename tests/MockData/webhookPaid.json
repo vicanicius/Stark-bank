@@ -1,0 +1,47 @@
+{
+  "event": {
+    "created": "2023-02-27T19:32:30.467608+00:00",
+    "id": "4635805607788544",
+    "log": {
+      "created": "2023-02-27T19:30:20.312873+00:00",
+      "errors": [],
+      "id": "5465054572969984",
+      "invoice": {
+        "amount": 569562,
+        "brcode": "00020101021226890014br.gov.bcb.pix2567brcode-h.sandbox.starkinfra.com/v2/a60dc265e1b74736aaf93c3fc32236915204000053039865802BR5925Stark Bank S.A. - Institu6009Sao Paulo62070503***630408BB",
+        "created": "2023-02-27T19:24:20.255926+00:00",
+        "descriptions": [
+          {
+            "key": "challenge",
+            "value": "approved"
+          }
+        ],
+        "discountAmount": 0,
+        "discounts": [],
+        "due": "2023-03-01T19:24:20.240878+00:00",
+        "expiration": 5097600,
+        "fee": 0,
+        "fine": 2,
+        "fineAmount": 0,
+        "id": "4561037776912384",
+        "interest": 1,
+        "interestAmount": 0,
+        "link": "https://challenge934851.sandbox.starkbank.com/invoicelink/a60dc265e1b74736aaf93c3fc3223691",
+        "name": "Nami",
+        "nominalAmount": 569562,
+        "pdf": "https://sandbox.api.starkbank.com/v2/invoice/a60dc265e1b74736aaf93c3fc3223691.pdf",
+        "status": "paid",
+        "tags": [
+          "challenge",
+          "e04261151202302271930lyfb8yvxvzb"
+        ],
+        "taxId": "365.936.298-04",
+        "transactionIds": [],
+        "updated": "2023-02-27T19:30:20.312916+00:00"
+      },
+      "type": "paid"
+    },
+    "subscription": "invoice",
+    "workspaceId": "4958995567607808"
+  }
+}
